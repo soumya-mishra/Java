@@ -4,6 +4,7 @@ public class testSoumya {
 	
 	public static void main(String[] args) {
 		System.out.println("soumya");
+		System.out.println("Siku");
 	}
 
 }
